@@ -25,9 +25,8 @@ This project is focused on identifying customers who are leaving or stopping ser
 
 ## Getting Started
 1. Clone the project repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the Jupyter Notebook `customer_churn_analysis.ipynb` to execute the data analysis and visualization scripts.
-4. Explore the visualizations and analysis results to gain insights into customer churn and formulate strategies accordingly.
+2. Run the Jupyter Notebooks `.ipynb` to execute the data analysis and visualization scripts.
+3. Explore the visualizations and analysis results to gain insights into customer churn and formulate strategies accordingly.
 
 ## Contributors
 - Manikanta Grandhe: Project Lead
